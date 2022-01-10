@@ -1,1 +1,3 @@
 # Hangman
+
+This is a simple Hangman game made using Python programming language. The Hangman Project randomnly selects a secret word from a list of secret words. This is a game in which the computer chooses the secret word and the user attempts to guess the word one letter at a time. when the user fails to guess the word, he loses one life. User is given a limited number of lives. If the user spents all the lives, then user loses the game. if the user guesses all the correct letters of the word before losing his lives, user wins the game. 
